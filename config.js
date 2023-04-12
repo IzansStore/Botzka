@@ -38,39 +38,39 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285838225041', 'Wily Kun 🐶', true],
-['6285838225041', 'Wily Kun 🐶', true],
-['6285838225041', 'Wily Kun 🐶', true] // Jangan Du Hapus Nanti eror 
+['6282298627146', 'FazaMd', true],
+['6282298627146', 'FazaMd', true],
+['6282298627146', 'FazaMd', true] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6289688206739'
+global.nomorbot = '6282286565156'
 global.nomorown = '6289688206739'
-global.nomorown1 = '6289688206739'
-global.nomorown2 = '6289688206739'
-global.nomorwa = '6289688206739'
+global.nomorown1 = '6282298627146'
+global.nomorown2 = '6282298627146'
+global.nomorwa = '6282298627146'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Wily Kun 🐶 X Henbot 🦍'
+global.author = 'FazaMd X ZaaBot'
 global.namebot = 'Henbot 𝗺𝗱'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Wily Kun 🐶'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 FazaMd'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'HENBOT 𝗺𝗱 '
+global.wm = 'ZaaBot '
 global.watermark = wm
-global.wm2 = 'HENBOT 𝗺𝗱 '
+global.wm2 = 'ZaaBot '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Henbot 🐺`
-global.stickpack = 'Henbot 🐱'
+global.titlebot = `Zaabot 🐺`
+global.stickpack = 'Zaabot🐱'
 global.stickauth = `© Bot 🐯`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Wily Kun'
-global.nameown2 = 'Wily Kun 𝗺𝗱'
+global.nameown1= 'FazaMd'
+global.nameown2 = 'FazaMd'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '𝐆𝐝𝐚 𝐖𝐤𝐰𝐤'
@@ -84,13 +84,13 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/--'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '6289688206739'
+global.pdana = '6282298627146'
 global.povo = '-'
-global.pgopay = '6289688206739'
+global.pgopay = '6282298627146'
 global.plinkaja = '-' //link aja
-global.ppulsa = '6289688206739'
-global.ppulsa2 = '-'
-global.psaweria = '-'
+global.ppulsa = '6282298627146'
+global.ppulsa2 = '6282298627146'
+global.psaweria = '6282298627146'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -519,9 +519,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.facebook.com/wily.kun.1"
+global.urlnya = "https://www.facebook.com/izansstore"
 global.dtc = '???? ?????'
-global.phn = '6289688206739'
+global.phn = '6282298627146'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
